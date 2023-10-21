@@ -1,0 +1,5 @@
+envVars:
+  PROJECT_NAME: 'vite-boilerplate'
+  PROJECT_BUILD: '0.0.1'
+  PROJECT_PROFILE: 'dev'
+  JENKINS: 'true'

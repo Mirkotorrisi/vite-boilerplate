@@ -1,0 +1,19 @@
+{
+  "login": {
+    "login-to-account": "Login to account",
+    "client": "Client",
+    "enter-client": "Enter client",
+    "username": "Username",
+    "enter-username": "Enter username",
+    "password": "Password",
+    "enter-password": "Enter Password",
+    "forgot-password": "Forgot password?",
+    "login": "Log In",
+    "code": "Code",
+    "enter-code": "Enter code",
+    "not-registered-signup": "Not registered? Signup"
+  },
+  "dashboard": {
+    "main": "This is the dashboard"
+  }
+}
